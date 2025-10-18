@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="width=device-width; initial-scale=1.0" name="viewport" />
+<!-- #BeginEditable "doctitle" -->
+<title>Two Equal Height Columns - Liquid Layout</title>
+<!-- #EndEditable -->
+<!-- #BeginEditable "description" -->
+<meta content="insert DESCRIPTION here" name="description" />
+<!-- #EndEditable -->
+<!-- main css -->
+<link href="../styles/site.css" rel="stylesheet" type="text/css" />
+<!-- media queries css -->
+<link href="../styles/media-queries.css" rel="stylesheet" type="text/css" />
+<script src="../js/menu.js" type="text/javascript"></script>
+<!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+<!-- #BeginEditable "PageLocal" -->
+<!-- #EndEditable -->
+<!-- 
+======================================
+Website Template Name:  Autumn Colors Mobile Friendly Template
+Author: Patricia Geary
+Author URI: http://www.expression-web-tutorials.com/
+Author Email: patgeary@comcast.net
+Date: August 2020 
+========================================
+-->
+</head>
+
+<body>
+
+<!-- Page Container begins here -->
+<div id="outerWrapper">
+	<!-- Masthead begins here -->
+	<div id="header">
+		<img alt="" class="scalable" src="../images/masthead-bg.jpg" style="width: 1247px; height: 200px" /></div>
+	<!-- Masthead ends here -->
+	<!-- Top Navigation begins here -->
+	<div id="myTopnav" class="topnav">
+		<a href="../index.html">Home</a> <a href="../about.html" title="About">About</a>
+		<a href="../contact.html" title="Contact">Contact</a>
+		<a href="../links.html" title="Links">Links</a>
+		<a href="../search.html" title="Search">Search</a>
+		<a href="../site-map.html" title="Site Map">Site Map</a>
+		<a class="icon" href="javascript:void(0);" onclick="myFunction()">
+		<i class="fa fa-bars"></i></a></div>
+	<!-- Top Navigation ends here -->
+	<!-- Columns Container begins here -->
+	<div id="contentWrapper">
+		<!-- Left Sidebar Begins Here	-->
+		<div id="leftColumn1">
+		<script  src="https://cse.google.com/cse.js?cx=009206261522604705567:8jugoae9_ha" type="text/javascript"></script>
+<div class="gcse-search"></div>
+		
+			<!--	Sectional Menu Begins Here	-->
+			<p class="heading">Sectional Navigation</p>
+			<ul>
+				<li><a href="#" title="Home">Link One</a></li>
+				<li><a href="#" title="About">Link Two</a></li>
+				<li><a href="#" title="Contact">Link Three</a></li>
+				<li><a href="#" title="Links">Link Four</a></li>
+				<li><a href="#" title="Search">Link Five</a></li>
+				<li><a href="#" title="Site Map">Link Six</a></li>
+			</ul>
+			<!--	Sectional Menu ends Here	-->
+			<p class="heading">Article Heading</p>
+			<p>Lorem ipsum dolor sit amet, ne sea vocent scripta abhorreant, facilisi 
+			explicari mel ne, ut quo vide ridens. Mei ex quodsi inciderint, quo 
+			ad quas deleniti definitionem, vis no wisi graecis offendit. Lorem ipsum 
+			dolor sit amet, ne sea vocent scripta abhorreant, facilisi explicari 
+			mel ne, ut quo vide ridens. Mei ex quodsi inciderint, quo ad quas deleniti 
+			definitionem, vis no wisi graecis offendit.</p>
+			<hr />
+			<p class="ctr">Connect with us on:<br />
+			<img alt="Connect with us on Facebook." src="../images/facebook.png" style="width: 32px; height: 32px" />
+			<img alt="Connect with us on Twitter." src="../images/twitter.png" style="width: 32px; height: 32px" />
+			<img alt="Connect With Us on YouTube." src="../images/youtube.png" style="width: 32px; height: 32px" /></p>
+		</div>
+		<!-- Left Sidebar ends Here	-->
+		<!--Main Content Area Begins Here-->
+		<div id="content">
+			<!-- #BeginEditable "content" -->
+			<h1>H1 Main Content</h1>
+			<p>&nbsp;</p>
+			<!-- #EndEditable --></div>
+		<!--Main Content Area Ends Here--></div>
+	<!-- Columns Container begins here -->
+	<!-- Footer begins here -->
+	<div id="footer">
+		<p>Copyright &copy;
+		<script type="text/javascript">
+document.write("2012 - "+ new Date().getFullYear());
+</script>
+		Company.</p>
+		<p>your-name@your-domain.com
+		<a href="../privacy-policy.html" title="Privacy Policy.">Privacy Policy</a>
+		</p>
+		<p class="smltxt">Template Design:
+		<a href="https://www.expression-web-tutorials.com/">Expression Web Tutorials &amp; 
+		Templates</a> </p>
+		<p class="smltxt">Template Updated: August 2020 </p>
+	</div>
+	<!-- Footer ends here -->
+	<!-- Page Container ends here --></div>
+
+</body>
+
+</html>
